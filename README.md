@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayuushgambhirr
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with working professionals in the field of Analytics.
 - 📫 How to reach me ayushgambhir2002@gmail.com
 
